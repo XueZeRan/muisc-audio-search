@@ -2,6 +2,8 @@
 
 ## 一个搜索音乐和电影的小项目,pc端项目
 
+### 项目演示地址：https://xuezeran.github.io/Music-Movie-Search-3/dist/index.html
+
 # 技术栈
 ## vue+vue-cli+vue-router+axios+bootstrap
 
