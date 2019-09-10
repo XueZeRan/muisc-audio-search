@@ -7,4 +7,3 @@
 ![效果图](https://xuezeran.github.io/Music-Movie-Search-3/02.PNG)
 ![效果图](https://xuezeran.github.io/Music-Movie-Search-3/03.PNG)
 ![效果图](https://xuezeran.github.io/Music-Movie-Search-3/04.PNG)
-![效果图](https://xuezeran.github.io/Music-Movie-Search-3/05.PNG)
