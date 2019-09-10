@@ -1,29 +1,10 @@
 # demo01
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 示例图片
+![效果图](https://xuezeran.github.io/Music-Movie-Search-3/01.PNG)
+![效果图](https://xuezeran.github.io/Music-Movie-Search-3/02.PNG)
+![效果图](https://xuezeran.github.io/Music-Movie-Search-3/03.PNG)
+![效果图](https://xuezeran.github.io/Music-Movie-Search-3/04.PNG)
+![效果图](https://xuezeran.github.io/Music-Movie-Search-3/05.PNG)
