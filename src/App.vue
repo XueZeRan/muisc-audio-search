@@ -1,7 +1,13 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <!-- <a class="a-btn navbar-brand" to="/">music-Search</a> -->
+        <router-link class="a-btn" to="/">music-Search</router-link>
+        <router-link class="a-btn" to="/au">电影</router-link>
+      </nav>       
+    </div>
+    <keep-alive><router-view></router-view></keep-alive>
   </div>
 </template>
 
@@ -16,13 +22,17 @@ export default {
 }
 </script>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+<style lang='stylus' scoped>
+  a
+    color #fff
+  .a-btn
+    padding 0 10px 0 10px
+  .a-btn:hover
+    padding 5px
+    background #fff   /* 鼠标移动到链接上 */
+    border-radius 10px
+  .router-link-exact-active
+    background #0555ad
+    padding 5px
+    border-radius 10px
 </style>
